@@ -232,7 +232,7 @@ document.addEventListener('DOMContentLoaded', function () {
         title: "ER Diagrams",
         description:
           "Entity-Relationship diagrams illustrating database structure and relationships.",
-        url: "documents/cce104/Final-CCE106-ERD-1.pdf",
+        url: "documents/cce104/Final-CCE106-ERD-1.docx",
         fileType: "PDF"
       },
       {
@@ -1093,3 +1093,4 @@ document.addEventListener('DOMContentLoaded', function () {
     };
 
 });
+
