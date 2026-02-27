@@ -273,7 +273,7 @@ document.addEventListener('DOMContentLoaded', function () {
         title: "Operating Systems Lab",
         description:
           "Laboratory exercises and reports focused on operating system concepts and implementation.",
-        url: "documents/it_elective_1/Copy of Campilan_Lab_Act#3.pdf",
+        url: "documents/it_elective_1/Campilan_Lab_3.pdf",
         fileType: "PDF"
       },
       {
@@ -1093,6 +1093,7 @@ document.addEventListener('DOMContentLoaded', function () {
     };
 
 });
+
 
 
 
