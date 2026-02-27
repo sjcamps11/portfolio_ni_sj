@@ -358,13 +358,7 @@ document.addEventListener('DOMContentLoaded', function () {
         url: "documents/it_9a/Emergify%20(1).pdf",
         fileType: "PDF"
       },
-      {
-        title: "Practicum Output",
-        description:
-          "Practical application output demonstrating mobile development concepts.",
-        url: "documents/it_9a/prac1.jpg",
-        fileType: "Image"
-      }
+      
     ]
   },
 
@@ -1093,4 +1087,5 @@ document.addEventListener('DOMContentLoaded', function () {
     };
 
 });
+
 
