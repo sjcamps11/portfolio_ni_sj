@@ -232,7 +232,7 @@ document.addEventListener('DOMContentLoaded', function () {
         title: "ER Diagrams",
         description:
           "Entity-Relationship diagrams illustrating database structure and relationships.",
-        url: "documents/cce104/erd.pdf",
+        url: "documents/cce104/Final-CCE106-ERD-1.pdf",
         fileType: "PDF"
       },
       {
@@ -256,7 +256,7 @@ document.addEventListener('DOMContentLoaded', function () {
         title: "Hashing Implementation",
         description:
           "Documentation and analysis of hashing algorithms and their real-world applications.",
-        url: "documents/cce105/Group_F_hashing.pdf",
+        url: "documents/cce105/Group_F_Hashing.pdf",
         fileType: "PDF"
       }
     ]
@@ -273,14 +273,14 @@ document.addEventListener('DOMContentLoaded', function () {
         title: "Operating Systems Lab",
         description:
           "Laboratory exercises and reports focused on operating system concepts and implementation.",
-        url: "documents/it_elective_1/lab_3.pdf",
+        url: "documents/it_elective_1/Copy of Campilan_Lab_Act#3.pdf",
         fileType: "PDF"
       },
       {
         title: "Ubuntu Overview",
         description:
           "Documentation highlighting Ubuntu installation, configuration, and system usage.",
-        url: "documents/it_elective_1/ubuntu.pdf",
+        url: "documents/it_elective_1/Copy of Campilan_UBUNTUDESKTOP.pdf",
         fileType: "PDF"
       }
     ]
@@ -1091,4 +1091,5 @@ document.addEventListener('DOMContentLoaded', function () {
         getProjectData: () => projectData,
         test: () => console.log('Portfolio script is loaded and running')
     };
+
 });
